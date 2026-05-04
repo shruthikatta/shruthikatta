@@ -4,6 +4,8 @@ I’m a software engineer who enjoys building **scalable systems, intelligent to
 
 I’ve worked on production systems at **D. E. Shaw** and **Amazon**, and I like tackling problems at the intersection of **distributed systems, cloud platforms, and developer productivity**.
 
+Currently pursuing an M.S. in Software Engineering (Cloud Computing focus) at San José State University.
+
 ---
 
 ## 🚀 What I Care About
