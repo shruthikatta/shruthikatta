@@ -7,52 +7,55 @@
 ![Intelligent Systems](https://img.shields.io/badge/Intelligent%20Systems-8a2be2?style=for-the-badge)
 
 
-I’m a software engineer who enjoys building **scalable systems, intelligent tools, and reliable infrastructure**.
+# Hi, I'm Shruthi 👋
 
-I’ve built and worked on production systems at **D. E. Shaw** and **Amazon**, and I like tackling problems at the intersection of **distributed systems, cloud platforms, and developer productivity**.
+Backend & Distributed Systems Engineer focused on building scalable, resilient cloud infrastructure.
 
-Currently pursuing an M.S. in Software Engineering (Cloud Computing focus) at San José State University.
+## 🚀 What I Work On
 
----
+* Distributed systems & microservices (Kubernetes, AWS)
+* High-scale backend systems (FastAPI, Node.js)
+* Observability & reliability engineering
+* Applied ML for infrastructure intelligence
 
-## 🚀 What I Care About
+## 🧠 Experience
 
-* Designing systems that are **reliable under real-world conditions**
-* Building tools that **improve how engineers work**
-* Turning complex problems into **clean, maintainable systems**
-* Exploring how **ML can enhance infrastructure and workflows**
+* **Software Engineer @ D.E. Shaw**
 
----
+  * Built fine-grained authorization systems serving 1000+ users
+  * Designed scalable microservices with 99.9% availability
+  * Reduced MTTR by 35% via observability systems
 
-## 🧠 Featured Projects
+* **SDE Intern @ Amazon**
 
-### 🔹 Intelligent Cloud Disaster Recovery Platform
+  * Migrated monolith → serverless architecture (AWS Lambda)
+  * Built real-time data pipelines with DynamoDB & S3
 
-A multi-region failover system with ML-based anomaly detection and automated recovery.
+## 🔥 Featured Projects
 
-* Built with AWS (EC2, RDS, Route 53, Lambda), TensorFlow, SageMaker
-* Predicts failures using time-series signals from infrastructure metrics
-* Automates failover to reduce recovery time and operational overhead
+### Intelligent Cloud Disaster Recovery System
+
+> ML-powered failure prediction + automated multi-region failover
+
+* LSTM-based anomaly detection on CloudWatch metrics
+* Automated failover using EventBridge + Route53
+* Designed for sub-minute RTO
 
 👉 https://github.com/shruthikatta/intelligent-cloud-disaster-recovery-streaming-platform
 
----
+### Semantic Code Search Engine
 
-### 🔹 Semantic Code Search Engine
+> Context-aware code retrieval using embeddings + hybrid search
 
-A context-aware code search system that understands structure—not just keywords.
-
-* Combines vector search (embeddings) with traditional retrieval (BM25)
-* Processes large codebases with AST-aware chunking
-* Designed for integration into developer workflows
+* OpenAI embeddings + Elasticsearch vector search
+* AST-aware chunking for accurate retrieval
+* Hybrid BM25 + dense retrieval (↑ relevance by 40%)
 
 👉 https://github.com/shruthikatta/semantic-code-search
 
----
-
 ### 🔹 .env Audit
 
-A CLI tool to audit, validate, and manage environment configurations.
+> A CLI tool to audit, validate, and manage environment configurations.
 
 * Detects missing variables, config drift, and potential security issues
 * Designed for use in local workflows, CI pipelines, and team environments
@@ -60,44 +63,15 @@ A CLI tool to audit, validate, and manage environment configurations.
 
 👉 https://github.com/shruthikatta/dotenv-audit
 
----
 
-## 💼 Experience
 
-**Software Engineer — D. E. Shaw**
+## 📈 What I'm Interested In
 
-* Built an authorization platform used by 1000+ users across multiple systems
-* Designed and deployed scalable services with high availability
-* Worked on observability, CI/CD, and production reliability
+* Large-scale distributed systems
+* Reliability engineering (SRE)
+* Infrastructure automation
+* ML applied to systems
 
-**Software Development Engineer Intern — Amazon**
-
-* Contributed to cloud-native systems handling real-time data
-* Improved system performance and operational efficiency
-
----
-
-## ⚙️ Technologies I Work With
-
-**Languages:** Python, Java, TypeScript, C++
-
-**Frameworks:** FastAPI, Node.js, React
-
-**Cloud & Infra:** AWS, Docker, Kubernetes, Terraform
-
-**Data Systems:** PostgreSQL, DynamoDB, Redis, Elasticsearch
-
-**Observability:** Prometheus, Grafana, ELK
-
----
-
-## 🌱 Currently Exploring
-
-* Distributed systems design at scale
-* Developer tooling and productivity systems
-* Applying machine learning to infrastructure and operations
-
----
 
 ## 📫 Connect
 
