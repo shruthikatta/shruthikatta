@@ -1,77 +1,87 @@
-
 # Hi, I'm Shruthi 👋
 
-![Software Engineer](https://img.shields.io/badge/Software%20Engineer-2d2d2d?style=for-the-badge)
-![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-1f6feb?style=for-the-badge)
-![Cloud • AWS](https://img.shields.io/badge/Cloud%20•%20AWS-ff9900?style=for-the-badge)
-![Intelligent Systems](https://img.shields.io/badge/Intelligent%20Systems-8a2be2?style=for-the-badge)
+Backend & Distributed Systems Engineer focused on building **reliable, fault-tolerant systems at scale**.
 
+I care deeply about **how systems fail, recover, and evolve under real-world conditions**—not just how they work in the happy path.
 
-# Hi, I'm Shruthi 👋
+---
 
-Backend & Distributed Systems Engineer focused on building scalable, resilient cloud infrastructure.
+## ⚙️ What I Do
 
-## 🚀 What I Work On
+* Design distributed systems with strong **availability and fault tolerance guarantees**
+* Build **observable, production-grade microservices** (FastAPI, Kubernetes, AWS)
+* Work on **reliability engineering (SRE)** — reducing MTTR, improving system visibility
+* Explore **ML applied to infrastructure** (failure prediction, anomaly detection)
 
-* Distributed systems & microservices (Kubernetes, AWS)
-* High-scale backend systems (FastAPI, Node.js)
-* Observability & reliability engineering
-* Applied ML for infrastructure intelligence
+---
 
 ## 🧠 Experience
 
-* **Software Engineer @ D.E. Shaw**
+### Software Engineer — D. E. Shaw
 
-  * Built fine-grained authorization systems serving 1000+ users
-  * Designed scalable microservices with 99.9% availability
-  * Reduced MTTR by 35% via observability systems
+* Built a **fine-grained authorization platform** integrating LDAP, Active Directory, and UNIX systems
+  → Enforced least-privilege access across 1000+ users
+* Designed **Kubernetes-based microservices** with autoscaling and low-latency guarantees
+* Developed **end-to-end observability stack (Prometheus, Grafana, ELK)**
+  → Reduced MTTR by 35%
+* Built CI/CD pipelines with enforced test coverage → reduced production regressions
 
-* **SDE Intern @ Amazon**
+---
 
-  * Migrated monolith → serverless architecture (AWS Lambda)
-  * Built real-time data pipelines with DynamoDB & S3
+### SDE Intern — Amazon
 
-## 🔥 Featured Projects
+* Migrated monolithic system → **serverless architecture (AWS Lambda)**
+* Built **real-time telemetry pipelines** using DynamoDB + S3
+* Improved processing latency and system scalability under burst workloads
+
+---
+
+## 🔥 Selected Projects
 
 ### Intelligent Cloud Disaster Recovery System
 
-> ML-powered failure prediction + automated multi-region failover
+ML-driven system that **predicts failures and automatically fails over infrastructure across regions**.
+
+**Key ideas:**
 
 * LSTM-based anomaly detection on CloudWatch metrics
-* Automated failover using EventBridge + Route53
-* Designed for sub-minute RTO
+* Event-driven failover orchestration (EventBridge + Lambda)
+* Multi-region traffic routing via Route53
 
 👉 https://github.com/shruthikatta/intelligent-cloud-disaster-recovery-streaming-platform
 
+---
+
 ### Semantic Code Search Engine
 
-> Context-aware code retrieval using embeddings + hybrid search
+A **hybrid retrieval system** for understanding code semantically—not just keyword matching.
 
-* OpenAI embeddings + Elasticsearch vector search
-* AST-aware chunking for accurate retrieval
-* Hybrid BM25 + dense retrieval (↑ relevance by 40%)
+**Key ideas:**
+
+* Embeddings + BM25 hybrid search
+* AST-aware chunking for structural understanding
+* Vector search with Elasticsearch
 
 👉 https://github.com/shruthikatta/semantic-code-search
 
-### 🔹 .env Audit
+---
 
-> A CLI tool to audit, validate, and manage environment configurations.
+### .env Audit
 
-* Detects missing variables, config drift, and potential security issues
-* Designed for use in local workflows, CI pipelines, and team environments
-* Outputs both human-readable and machine-friendly reports
+CLI tool for **detecting configuration drift and security risks** in environment variables.
 
-👉 https://github.com/shruthikatta/dotenv-audit
+👉 https://github.com/shruthikatta/envoyer
 
+---
 
+## 📈 Interests
 
-## 📈 What I'm Interested In
-
-* Large-scale distributed systems
+* Distributed systems at scale
 * Reliability engineering (SRE)
 * Infrastructure automation
-* ML applied to systems
+* ML for system intelligence
 
+---
 
 ## 📫 Connect
 
@@ -81,4 +91,4 @@ Backend & Distributed Systems Engineer focused on building scalable, resilient c
 
 ---
 
-*Always interested in building systems that are not just functional, but dependable and thoughtful.*
+*I’m especially interested in building systems that remain dependable under failure—not just under ideal conditions.*
