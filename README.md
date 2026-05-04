@@ -71,9 +71,13 @@ A CLI tool to audit, validate, and manage environment configurations.
 ## ⚙️ Technologies I Work With
 
 **Languages:** Python, Java, TypeScript, C++
+
 **Frameworks:** FastAPI, Node.js, React
+
 **Cloud & Infra:** AWS, Docker, Kubernetes, Terraform
+
 **Data Systems:** PostgreSQL, DynamoDB, Redis, Elasticsearch
+
 **Observability:** Prometheus, Grafana, ELK
 
 ---
