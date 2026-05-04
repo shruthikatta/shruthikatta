@@ -1,8 +1,15 @@
+
 # Hi, I'm Shruthi 👋
+
+![Software Engineer](https://img.shields.io/badge/Software%20Engineer-2d2d2d?style=for-the-badge)
+![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-1f6feb?style=for-the-badge)
+![Cloud • AWS](https://img.shields.io/badge/Cloud%20•%20AWS-ff9900?style=for-the-badge)
+![Intelligent Systems](https://img.shields.io/badge/Intelligent%20Systems-8a2be2?style=for-the-badge)
+
 
 I’m a software engineer who enjoys building **scalable systems, intelligent tools, and reliable infrastructure**.
 
-I’ve worked on production systems at **D. E. Shaw** and **Amazon**, and I like tackling problems at the intersection of **distributed systems, cloud platforms, and developer productivity**.
+I’ve built and worked on production systems at **D. E. Shaw** and **Amazon**, and I like tackling problems at the intersection of **distributed systems, cloud platforms, and developer productivity**.
 
 Currently pursuing an M.S. in Software Engineering (Cloud Computing focus) at San José State University.
 
