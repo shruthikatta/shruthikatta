@@ -50,7 +50,7 @@ A context-aware code search system that understands structure—not just keyword
 
 ---
 
-### 🔹 Envoyer
+### 🔹 .env Audit
 
 A CLI tool to audit, validate, and manage environment configurations.
 
@@ -58,7 +58,7 @@ A CLI tool to audit, validate, and manage environment configurations.
 * Designed for use in local workflows, CI pipelines, and team environments
 * Outputs both human-readable and machine-friendly reports
 
-👉 https://github.com/shruthikatta/envoyer
+👉 https://github.com/shruthikatta/dotenv-audit
 
 ---
 
