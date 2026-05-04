@@ -6,7 +6,7 @@ I care deeply about **how systems fail, recover, and evolve under real-world con
 
 ---
 
-## ⚙️ What I Do
+## What I Do
 
 * Design distributed systems with strong **availability and fault tolerance guarantees**
 * Build **observable, production-grade microservices** (FastAPI, Kubernetes, AWS)
@@ -15,7 +15,7 @@ I care deeply about **how systems fail, recover, and evolve under real-world con
 
 ---
 
-## 🧠 Experience
+## Experience
 
 ### Software Engineer — D. E. Shaw
 
@@ -36,7 +36,7 @@ I care deeply about **how systems fail, recover, and evolve under real-world con
 
 ---
 
-## 🔥 Selected Projects
+##  Selected Projects
 
 ### Intelligent Cloud Disaster Recovery System
 
@@ -74,7 +74,7 @@ CLI tool for **detecting configuration drift and security risks** in environment
 
 ---
 
-## 📈 Interests
+## Interests
 
 * Distributed systems at scale
 * Reliability engineering (SRE)
@@ -83,7 +83,7 @@ CLI tool for **detecting configuration drift and security risks** in environment
 
 ---
 
-## 📫 Connect
+## Connect
 
 * LinkedIn: https://linkedin.com/in/katta-shruthi
 * GitHub: https://github.com/shruthikatta
